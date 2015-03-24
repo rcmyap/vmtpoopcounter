@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html ng-app="myApp">
 <head>
+<title>Poop Counter</title>
 <link rel="stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 <script src= "https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0/angular.min.js"></script>
 <script src="https://cdn.firebase.com/js/client/2.0.4/firebase.js"></script>
